@@ -1,4 +1,7 @@
-Projeto DASHBOARD - MONEYAPP ![image](https://github.com/user-attachments/assets/6883fcfa-0601-4cd6-b778-84ee8e477bfc)
+Projeto DASHBOARD - MONEYAPP <br>
+isrc='https://www.bing.com/ck/a?!&&p=9c159954d7163744d78f602423d4af6a15a13521479415aec1893ed29f6211b0JmltdHM9MTczNjg5OTIwMA&ptn=3&ver=2&hsh=4&fclid=109a4ad8-0bd3-6a21-30fc-5fab0a456bfa&u=a1L2ltYWdlcy9zZWFyY2g_cT1pbWFnZW0lMjBkZSUyMGRpbmhlaXJvJTIwM2QlMjBwbmcmRk9STT1JUUZSQkEmaWQ9NUQxOTlBOThEQTJGQTEyNTU5RTIyNzIxQkVDMjNCMUE1RDNBNTA0Rg&ntb=1'
+
+
 <BR>
 ![image](https://github.com/user-attachments/assets/73db6255-74ef-42a5-8c84-ef01fa5c831a)
 <br>
