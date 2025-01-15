@@ -1,6 +1,6 @@
 Projeto DASHBOARD - MONEYAPP <br>
 <p align="center">
-    <img width="400" src="[assets/grafico_gemini.png](https://www.bing.com/ck/a?!&&p=9c159954d7163744d78f602423d4af6a15a13521479415aec1893ed29f6211b0JmltdHM9MTczNjg5OTIwMA&ptn=3&ver=2&hsh=4&fclid=109a4ad8-0bd3-6a21-30fc-5fab0a456bfa&u=a1L2ltYWdlcy9zZWFyY2g_cT1pbWFnZW0lMjBkZSUyMGRpbmhlaXJvJTIwM2QlMjBwbmcmRk9STT1JUUZSQkEmaWQ9NUQxOTlBOThEQTJGQTEyNTU5RTIyNzIxQkVDMjNCMUE1RDNBNTA0Rg&ntb=1)">
+   [ <img width="400" src="(https://www.bing.com/ck/a?!&&p=9c159954d7163744d78f602423d4af6a15a13521479415aec1893ed29f6211b0JmltdHM9MTczNjg5OTIwMA&ptn=3&ver=2&hsh=4&fclid=109a4ad8-0bd3-6a21-30fc-5fab](https://www.bing.com/ck/a?!&&p=9c159954d7163744d78f602423d4af6a15a13521479415aec1893ed29f6211b0JmltdHM9MTczNjg5OTIwMA&ptn=3&ver=2&hsh=4&fclid=109a4ad8-0bd3-6a21-30fc-5fab0a456bfa&u=a1L2ltYWdlcy9zZWFyY2g_cT1pbWFnZW0lMjBkZSUyMGRpbmhlaXJvJTIwM2QlMjBwbmcmRk9STT1JUUZSQkEmaWQ9NUQxOTlBOThEQTJGQTEyNTU5RTIyNzIxQkVDMjNCMUE1RDNBNTA0Rg&ntb=1)0a456bfa&u=a1L2ltYWdlcy9zZWFyY2g_cT1pbWFnZW0lMjBkZSUyMGRpbmhlaXJvJTIwM2QlMjBwbmcmRk9STT1JUUZSQkEmaWQ9NUQxOTlBOThEQTJGQTEyNTU5RTIyNzIxQkVDMjNCMUE1RDNBNTA0Rg&ntb=1)">
 </p>
 
 
